@@ -1,0 +1,12 @@
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\bin\Release\netcoreapp3.1\TouchVideoServer.exe
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\bin\Release\netcoreapp3.1\TouchVideoServer.deps.json
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\bin\Release\netcoreapp3.1\TouchVideoServer.runtimeconfig.json
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\bin\Release\netcoreapp3.1\TouchVideoServer.runtimeconfig.dev.json
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\bin\Release\netcoreapp3.1\TouchVideoServer.dll
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\bin\Release\netcoreapp3.1\TouchVideoServer.pdb
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\obj\Release\netcoreapp3.1\TouchVideoServer.AssemblyInfoInputs.cache
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\obj\Release\netcoreapp3.1\TouchVideoServer.AssemblyInfo.cs
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\obj\Release\netcoreapp3.1\TouchVideoServer.csproj.CoreCompileInputs.cache
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\obj\Release\netcoreapp3.1\TouchVideoServer.dll
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\obj\Release\netcoreapp3.1\TouchVideoServer.pdb
+C:\Users\wu_na\source\repos\TouchVideoServer\TouchVideoServer\obj\Release\netcoreapp3.1\TouchVideoServer.genruntimeconfig.cache
